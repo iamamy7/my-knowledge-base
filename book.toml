@@ -1,0 +1,10 @@
+[book]
+title = "王静的个人知识库"
+authors = ["王静"]
+description = "关于 AI、产品设计和工程实践的个人知识库"
+language = "zh-CN"
+src = "src"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
